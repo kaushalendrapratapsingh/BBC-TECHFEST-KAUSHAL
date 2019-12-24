@@ -11,10 +11,10 @@
 Steps To Install This TOOL
 
 First Things First Clone This Tool 
-> git 
+> git https://github.com/kaushalendrapratapsingh/BBC-TECHFEST-KAUSHAL.git
 
 Get inside of directory
-> cd KAUSHAL
+> cd BBC-TECHFEST-KAUSHAL/
 
 
 
